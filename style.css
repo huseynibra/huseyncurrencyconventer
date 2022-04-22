@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+
+    width: 1152px;
+    height: 700px;
+}
+
+.container p {
+    margin: 17px 14px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 13px;
+    align-items: center;
+    letter-spacing: 0.06em;
+    color: #959BA4;
+}
+
+.header {
+    background: #F5F5F6;
+    display: flex;
+}
+
+.bankicon {
+    width: 89px;
+    height: 23px;
+    margin: 15px 64px 12px 100px;
+
+}
+
+p.bank {
+    margin-right: 13px;
+    color: black;
+
+}
+
+p.biznes {
+    margin-right: 21px;
+}
+
+p.inve {
+    margin-right: 11px;
+}
+
+p.stra {
+    margin-right: 16px;
+}
+
+p.moba {
+    margin-right: 7px;
+}
+
+p.pute {
+    margin-right: 10px;
+
+}
+
+p.razv {
+    margin-right: 109px;
+}
+
+.login {
+    color: black;
+    width: 58px;
+    height: 33px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 13px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: #000000;
+    margin: 9px 8px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    border: none;
+    padding-left: 6px;
+}
+
+h1 {
+    width: 587px;
+    height: 32px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #000000;
+    margin: 56px 321px 562px 253px;
+}
